@@ -1,23 +1,19 @@
 class Solution {
     public boolean judgeSquareSum(int c) 
     {
-
-       long sum;
-        int limit=(int)Math.sqrt(c);
-        long i=0,j=limit;
+        long i=0,j=(int)Math.sqrt(c);
         while(i<=j)
         {
-            sum=i*i+j*j;
-            if(sum<c)
+            long x=i*i,y=j*j;
+            if(x+y<c)
             {
                 i++;
             }
-            else if(sum>c)
+            else if(x+y>c)
             {
                 j--;
             }
             else{
-                System.out.print(i+" "+j);
                 return true;
             }
         }
