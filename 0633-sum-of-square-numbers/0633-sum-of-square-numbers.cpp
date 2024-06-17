@@ -1,6 +1,6 @@
 class Solution {
 public:
-   bool judgeSquareSum(int c) {
+    bool judgeSquareSum(int c) {
 long long l = 0 , r = sqrt(c) ;
 while( l <= r)
 {
