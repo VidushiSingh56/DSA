@@ -5,17 +5,9 @@ class Solution {
         while(i<=j)
         {
             long x=i*i,y=j*j;
-            if(x+y<c)
-            {
-                i++;
-            }
-            else if(x+y>c)
-            {
-                j--;
-            }
-            else{
-                return true;
-            }
+            if(x+y<c) i++;
+            else if(x+y>c) j--;
+            else return true;
         }
         return false;
      
