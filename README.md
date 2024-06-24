@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/VidushiSingh56/LeetCode/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/VidushiSingh56/LeetCode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/VidushiSingh56/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VidushiSingh56/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/VidushiSingh56/LeetCode/tree/master/0128-longest-consecutive-sequence) |
@@ -27,6 +28,7 @@
 # Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/VidushiSingh56/LeetCode/tree/master/0048-rotate-image) |
 | [0633-sum-of-square-numbers](https://github.com/VidushiSingh56/LeetCode/tree/master/0633-sum-of-square-numbers) |
 # Binary Search
 |  |
@@ -45,4 +47,5 @@
 # Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/VidushiSingh56/LeetCode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/VidushiSingh56/LeetCode/tree/master/0073-set-matrix-zeroes) |
