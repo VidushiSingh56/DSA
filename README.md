@@ -8,6 +8,7 @@
 | [0048-rotate-image](https://github.com/VidushiSingh56/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/VidushiSingh56/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/VidushiSingh56/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0118-pascals-triangle](https://github.com/VidushiSingh56/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VidushiSingh56/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/VidushiSingh56/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/VidushiSingh56/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -26,6 +27,7 @@
 # Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/VidushiSingh56/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VidushiSingh56/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 # Math
 |  |
