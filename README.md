@@ -62,6 +62,7 @@
 | [0015-3sum](https://github.com/VidushiSingh56/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/VidushiSingh56/LeetCode/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/VidushiSingh56/LeetCode/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/VidushiSingh56/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/VidushiSingh56/LeetCode/tree/master/0229-majority-element-ii) |
 ## Hash Table
 |  |
@@ -73,6 +74,7 @@
 | [0015-3sum](https://github.com/VidushiSingh56/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/VidushiSingh56/LeetCode/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/VidushiSingh56/LeetCode/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/VidushiSingh56/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/VidushiSingh56/LeetCode/tree/master/0229-majority-element-ii) |
 ## Counting
 |  |
@@ -83,4 +85,5 @@
 | ------- |
 | [0015-3sum](https://github.com/VidushiSingh56/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/VidushiSingh56/LeetCode/tree/master/0018-4sum) |
+| [0088-merge-sorted-array](https://github.com/VidushiSingh56/LeetCode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
