@@ -1,32 +1,43 @@
 class Solution {
-    public boolean check(int[] nums)
+    public boolean check(int[] nums) 
     {
         int n=nums.length;
-        int count=0;
-        int a[]=new int[n];
-        int b[]=new int[n];
-        for(int x=0;x<n;x++)
+        
+        int flag=0;
+        for(int i=0;i<n-1;i++)
         {
-            a[x]=nums[x];
-        }
-        Arrays.sort(a);
-        for(int x=0;x<n;x++)
-        {
-            for(int i=0;i<n;i++)
+            if(nums[i] <= nums[i+1])
             {
-                b[i]=nums[(i+x)%n];
+                continue;
             }
-            if(Arrays.equals(b,a))
+            else
             {
-                count++;
-                break;
+                flag++;
             }
         }
-        if(count==1)
-        {
-            return true;
-        }
+        if(flag == 0)
+        return true;
+        else if(flag==1 && nums[n-1]<=nums[0])
+        return true;
+        else
         return false;
         
+
     }
+    // public int findpivot(int nums[])
+    // {
+    //     int min=0,max=nums.length-1;
+    //     while(min<max)
+    //     {
+    //         int mid=(min+max)/2;
+    //         if(nums[0]<=nums[mid])
+    //         {
+    //             min=mid+1;
+
+    //         }
+    //         else{
+
+    //         }
+    //     }
+    // }
 }
