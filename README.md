@@ -71,6 +71,7 @@
 | [0229-majority-element-ii](https://github.com/VidushiSingh56/LeetCode/tree/master/0229-majority-element-ii) |
 | [0493-reverse-pairs](https://github.com/VidushiSingh56/LeetCode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/VidushiSingh56/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/VidushiSingh56/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
 | ------- |
