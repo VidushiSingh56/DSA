@@ -12,15 +12,14 @@ class Solution {
             }
             
         }
-        System.out.println(greatest);
-         System.out.println(sum);
+        
         int min=greatest, max=sum;
         int rem=0;
         while(min<=max)
         {
             int mid=(min+max)/2;
             int ans=func(weights, mid);
-            System.out.println(ans + "p");
+            
             if(ans <= days)
             {
                 rem = mid;
