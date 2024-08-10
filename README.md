@@ -74,6 +74,7 @@
 | [0907-koko-eating-bananas](https://github.com/VidushiSingh56/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/VidushiSingh56/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/VidushiSingh56/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1646-kth-missing-positive-number](https://github.com/VidushiSingh56/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/VidushiSingh56/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
@@ -110,6 +111,7 @@
 | [0907-koko-eating-bananas](https://github.com/VidushiSingh56/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/VidushiSingh56/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/VidushiSingh56/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1646-kth-missing-positive-number](https://github.com/VidushiSingh56/LeetCode/tree/master/1646-kth-missing-positive-number) |
 ## Divide and Conquer
 |  |
 | ------- |
