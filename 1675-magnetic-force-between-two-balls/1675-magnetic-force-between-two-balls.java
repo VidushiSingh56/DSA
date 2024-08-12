@@ -2,20 +2,11 @@ class Solution {
     public int maxDistance(int[] position, int m) 
     {
         int n=position.length;
-        int maximum_element= Integer.MIN_VALUE;
-        int minimum_element= Integer.MAX_VALUE;
-        for(int i=0;i<n;i++)
-        {
-            if(position[i]>maximum_element)
-            {
-                maximum_element=position[i];
-            }
-            if(position[i]<minimum_element)
-            {
-                minimum_element=position[i];
-            }
-        }
-         Arrays.sort(position);
+           Arrays.sort(position);
+        int maximum_element= position[n-1];
+        int minimum_element= position[0];
+       
+      
         int low=1,high=maximum_element-minimum_element;
         while(low<=high)
         {
