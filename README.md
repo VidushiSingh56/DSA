@@ -75,6 +75,7 @@
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/VidushiSingh56/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/VidushiSingh56/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1646-kth-missing-positive-number](https://github.com/VidushiSingh56/LeetCode/tree/master/1646-kth-missing-positive-number) |
+| [1675-magnetic-force-between-two-balls](https://github.com/VidushiSingh56/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/VidushiSingh56/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [3483-alternating-groups-ii](https://github.com/VidushiSingh56/LeetCode/tree/master/3483-alternating-groups-ii) |
 ## Hash Table
@@ -89,6 +90,7 @@
 | [0056-merge-intervals](https://github.com/VidushiSingh56/LeetCode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/VidushiSingh56/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/VidushiSingh56/LeetCode/tree/master/0229-majority-element-ii) |
+| [1675-magnetic-force-between-two-balls](https://github.com/VidushiSingh56/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 ## Counting
 |  |
 | ------- |
@@ -113,6 +115,7 @@
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/VidushiSingh56/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/VidushiSingh56/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1646-kth-missing-positive-number](https://github.com/VidushiSingh56/LeetCode/tree/master/1646-kth-missing-positive-number) |
+| [1675-magnetic-force-between-two-balls](https://github.com/VidushiSingh56/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 ## Divide and Conquer
 |  |
 | ------- |
