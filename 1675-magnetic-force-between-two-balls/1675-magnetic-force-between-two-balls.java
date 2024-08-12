@@ -3,11 +3,7 @@ class Solution {
     {
         int n=position.length;
            Arrays.sort(position);
-        int maximum_element= position[n-1];
-        int minimum_element= position[0];
-       
-      
-        int low=1,high=maximum_element-minimum_element;
+        int low=1,high=position[n-1]-position[0];
         while(low<=high)
         {
             int mid=(low+high)/2;
