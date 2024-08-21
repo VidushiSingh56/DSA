@@ -11,7 +11,7 @@ class Solution {
         int flag=0;
         int index1=0,index2=0;
         if(N%2==0)
-        {
+        {                           
             index1= N/2;
             index2=index1-1;
         }
@@ -32,6 +32,8 @@ class Solution {
             if(t==index1)
             {
                 y=nums1[p];
+                flag=1;
+                break;
             }
                 t++;
                 p++;
@@ -46,13 +48,15 @@ class Solution {
             if(t==index1)
             {
                 y=nums2[q];
+                flag=1;
+                break;
             }
                 t++;
                 q++;
                 
             }
         }
-        while(p<n1)
+        while(p<n1 && flag==0)
         {
             if(t==index2)
             {
@@ -60,12 +64,12 @@ class Solution {
             }
             if(t==index1)
             {
-                y=nums1[p];
+                y=nums1[p];break;
             }
             t++;
             p++;
         }
-        while(q<n2)
+        while(q<n2 && flag==0)
         {
             if(t==index2)
             {
@@ -73,7 +77,7 @@ class Solution {
             }
             if(t==index1)
             {
-                y=nums2[q];
+                y=nums2[q];break;
             }
             t++;
             q++;
