@@ -4,53 +4,93 @@ class Solution {
         int n1=nums1.length;
         int n2=nums2.length;
         int N=n1+n2;
-         int arr[]=new int[N];
-         int t=0;
+        int t=0;
         double ans=0.0;
         int p=0;
         int q=0;
-        while(p<n1 && q<n2)
+        int flag=0;
+        int index1=0,index2=0;
+        if(N%2==0)
         {
+            index1= N/2;
+            index2=index1-1;
+        }
+        else{
+            index1=N/2;
+        }
+        int x=0,y=0;
+        while(p<n1 && q<n2 )
+        {
+            
             if(nums1[p]<=nums2[q])
             {
-                arr[t]=nums1[p];
+
+            if(t==index2)
+            {
+                x= nums1[p];
+            }
+            if(t==index1)
+            {
+                y=nums1[p];
+            }
                 t++;
                 p++;
+                
             }
             else
             {
-                arr[t]=nums2[q];
+            if(t==index2)
+            {
+                x= nums2[q];
+            }
+            if(t==index1)
+            {
+                y=nums2[q];
+            }
                 t++;
                 q++;
+                
             }
         }
         while(p<n1)
         {
-            arr[t]=nums1[p];
+            if(t==index2)
+            {
+                x= nums1[p];
+            }
+            if(t==index1)
+            {
+                y=nums1[p];
+            }
             t++;
             p++;
         }
         while(q<n2)
         {
-            arr[t]=nums2[q];
+            if(t==index2)
+            {
+                x= nums2[q];
+            }
+            if(t==index1)
+            {
+                y=nums2[q];
+            }
             t++;
             q++;
         }
-        for(int i=0;i<N;i++)
-        {
-            System.out.print(arr[i]+" ");
-        }
-        System.out.println();
+        // for(int i=0;i<N;i++)
+        // {
+        //     System.out.print(arr[i]+" ");
+        // }
+        // System.out.println();
         if((N)%2 != 0)
         {
-            int q1=(N)/2;
-            System.out.println(q1);
-            ans= (double)arr[q1];
+           
+            ans= (double)y;
         }
         else{
-            int q1=(N)/2;
-            System.out.println(q1);
-            ans= (double)(arr[q1-1]+arr[q1])/2;
+           
+            ans= (double)((double )x + (double)y)/2;
         }
         
         return ans;
