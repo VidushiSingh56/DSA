@@ -13,25 +13,36 @@ class Solution {
     { 
         if(head.next == null)
         return null;
-    int cut =1;
-    helper(head, cut);
-    ListNode temp=head;
-    return temp;
-    }
-    public int helper(ListNode temp, int cut)
-    {
-        if(temp == null)
-        {
-            return 1;
-        }
+    // int cut =1;
+    // helper(head, cut);
+    // ListNode temp=head;
+    // return temp;
+    // }
+    // public int helper(ListNode temp, int cut)
+    // {
+    //     if(temp == null)
+    //     {
+    //         return 1;
+    //     }
         
-        int target = helper(temp.next, cut+1);
-        if(target==cut+2 || target==cut+1)
-        {
-            temp.next = temp.next.next;
-        }
+    //     int target = helper(temp.next, cut+1);
+    //     if(target==cut+2 || target==cut+1)
+    //     {
+    //         temp.next = temp.next.next;
+    //     }
 
-        return ++target;
+    //     return ++target;
+
+    ListNode first = head;
+    ListNode second=head.next.next;
+    while(second!=null && second.next!=null)
+    {
+        first=first.next;
+        second=second.next.next;
+    }
+    first.next=first.next.next;
+    return head;
+
     }
 
 }
