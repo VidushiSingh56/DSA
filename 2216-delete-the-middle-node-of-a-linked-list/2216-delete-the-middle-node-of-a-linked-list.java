@@ -10,34 +10,28 @@
  */
 class Solution {
     public ListNode deleteMiddle(ListNode head) 
-    {
+    { 
         if(head.next == null)
         return null;
-
-        ListNode temp = head;
-        int cut=0;
-        while(temp != null)
-        {
-            cut+=1;
-            temp=temp.next;
-        }
-        System.out.println(cut+ " ");
-        int target = cut/2;
-        cut=1;
-        System.out.println(target+ " ");
-        temp = head;
-        while(temp!=null)
-        {
-            if(cut == target)
-            {
-                temp.next=temp.next.next;
-                
-                break;
-            }
-            cut++;
-            temp=temp.next;
-
-        }
-        return head;
+    int cut =1;
+    helper(head, cut);
+    ListNode temp=head;
+    return temp;
     }
+    public int helper(ListNode temp, int cut)
+    {
+        if(temp == null)
+        {
+            return 1;
+        }
+        
+        int target = helper(temp.next, cut+1);
+        if(target==cut+2 || target==cut+1)
+        {
+            temp.next = temp.next.next;
+        }
+
+        return ++target;
+    }
+
 }
