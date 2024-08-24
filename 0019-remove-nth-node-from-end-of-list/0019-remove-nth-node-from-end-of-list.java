@@ -27,7 +27,5 @@ class Solution {
             temp.next=null;
         }
         return ++cut;
-        
-
     }
 }
