@@ -28,18 +28,21 @@ class Solution {
         // }
         // temp.next = prev;
         // return temp;
+
+        //Recursive Solution
         if(head == null || head.next==null)
         return head;
 
-       ListNode node = reverseLL(head, head.next);
+       ListNode node = reverseLL(head);
         return node;
         
     }
-    public ListNode reverseLL(ListNode temp, ListNode front)
+    public ListNode reverseLL(ListNode temp)
     {
         if(temp == null || temp.next==null)return temp;
 
-        ListNode Hn= reverseLL(temp.next, front.next);
+        ListNode Hn= reverseLL(temp.next);
+        ListNode front = temp.next;
         front.next=temp;
         temp.next=null;
         return Hn;
