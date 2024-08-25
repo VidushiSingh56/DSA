@@ -12,7 +12,7 @@
 public class Solution {
     public boolean hasCycle(ListNode head) 
     {
-        int value= 1000000;
+        int value= Integer.MAX_VALUE;
         int flag=0;
         ListNode temp=head;
         if(head == null)
