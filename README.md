@@ -194,11 +194,13 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/VidushiSingh56/LeetCode/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/VidushiSingh56/LeetCode/tree/master/0050-powx-n) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/VidushiSingh56/LeetCode/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/VidushiSingh56/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/VidushiSingh56/LeetCode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/VidushiSingh56/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/VidushiSingh56/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Stack
