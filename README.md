@@ -66,6 +66,7 @@
 | [0035-search-insert-position](https://github.com/VidushiSingh56/LeetCode/tree/master/0035-search-insert-position) |
 | [0056-merge-intervals](https://github.com/VidushiSingh56/LeetCode/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/VidushiSingh56/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/VidushiSingh56/LeetCode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/VidushiSingh56/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/VidushiSingh56/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/VidushiSingh56/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -207,4 +208,12 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/VidushiSingh56/LeetCode/tree/master/0234-palindrome-linked-list) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/VidushiSingh56/LeetCode/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/VidushiSingh56/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
