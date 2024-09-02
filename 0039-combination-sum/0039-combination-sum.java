@@ -3,11 +3,12 @@ class Solution {
     {
         int index = 0;
         List<List<Integer>> ans = new ArrayList<>();
-        List<Integer> sub = new ArrayList<>();
-        return findComb(candidates, index, target, sub, ans);
+        
+        findComb(candidates, index, target, new ArrayList<>(), ans);
+        return ans;
 
     }
-    public List<List<Integer>> findComb(int[] arr, int i, int t,List<Integer> sub, List<List<Integer>> ans)
+    public void findComb(int[] arr, int i, int t,List<Integer> sub, List<List<Integer>> ans)
     {
         if(i==arr.length)
         {
@@ -15,7 +16,7 @@ class Solution {
             {
                 ans.add(new ArrayList<>(sub));
             }
-            return ans;
+            return;
         }
         //condition to pick or not pick;
         if(arr[i]<=t)
@@ -25,6 +26,6 @@ class Solution {
             sub.remove(sub.size()-1);
         }
         findComb(arr, i+1, t, sub ,ans);
-        return ans;
+        
     }
 }
