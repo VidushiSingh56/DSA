@@ -22,7 +22,7 @@ class Solution {
          sub.add(i);
         letsdo(i + 1, k - 1, n - i, ans, sub);
         sub.remove(sub.size() - 1); // Backtrack
-        if(k==1 && n==i)return;
+        // if(k==1 && n==i)return;
         letsdo(i + 1, k, n, ans, sub);
         
     }
