@@ -222,6 +222,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/VidushiSingh56/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/VidushiSingh56/LeetCode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/VidushiSingh56/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/VidushiSingh56/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/VidushiSingh56/LeetCode/tree/master/0078-subsets) |
@@ -246,6 +247,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/VidushiSingh56/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/VidushiSingh56/LeetCode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/VidushiSingh56/LeetCode/tree/master/0038-count-and-say) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/VidushiSingh56/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/VidushiSingh56/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -253,4 +255,8 @@
 |  |
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/VidushiSingh56/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/VidushiSingh56/LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
