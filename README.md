@@ -79,6 +79,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/VidushiSingh56/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/VidushiSingh56/LeetCode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/VidushiSingh56/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0906-walking-robot-simulation](https://github.com/VidushiSingh56/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/VidushiSingh56/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/VidushiSingh56/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/VidushiSingh56/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -97,6 +98,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/VidushiSingh56/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/VidushiSingh56/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0229-majority-element-ii](https://github.com/VidushiSingh56/LeetCode/tree/master/0229-majority-element-ii) |
+| [0906-walking-robot-simulation](https://github.com/VidushiSingh56/LeetCode/tree/master/0906-walking-robot-simulation) |
 ## Sorting
 |  |
 | ------- |
@@ -233,6 +235,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0906-walking-robot-simulation](https://github.com/VidushiSingh56/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/VidushiSingh56/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/VidushiSingh56/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Prefix Sum
