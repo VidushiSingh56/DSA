@@ -88,6 +88,7 @@
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/VidushiSingh56/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/VidushiSingh56/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2047-find-a-peak-element-ii](https://github.com/VidushiSingh56/LeetCode/tree/master/2047-find-a-peak-element-ii) |
+| [2155-find-missing-observations](https://github.com/VidushiSingh56/LeetCode/tree/master/2155-find-missing-observations) |
 | [3483-alternating-groups-ii](https://github.com/VidushiSingh56/LeetCode/tree/master/3483-alternating-groups-ii) |
 ## Hash Table
 |  |
@@ -205,6 +206,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/VidushiSingh56/LeetCode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/VidushiSingh56/LeetCode/tree/master/0050-powx-n) |
+| [2155-find-missing-observations](https://github.com/VidushiSingh56/LeetCode/tree/master/2155-find-missing-observations) |
 ## Recursion
 |  |
 | ------- |
@@ -239,6 +241,7 @@
 | [0906-walking-robot-simulation](https://github.com/VidushiSingh56/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/VidushiSingh56/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/VidushiSingh56/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2155-find-missing-observations](https://github.com/VidushiSingh56/LeetCode/tree/master/2155-find-missing-observations) |
 ## Prefix Sum
 |  |
 | ------- |
