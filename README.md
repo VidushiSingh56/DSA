@@ -90,6 +90,7 @@
 | [2047-find-a-peak-element-ii](https://github.com/VidushiSingh56/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2155-find-missing-observations](https://github.com/VidushiSingh56/LeetCode/tree/master/2155-find-missing-observations) |
 | [3483-alternating-groups-ii](https://github.com/VidushiSingh56/LeetCode/tree/master/3483-alternating-groups-ii) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/VidushiSingh56/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -100,6 +101,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/VidushiSingh56/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0229-majority-element-ii](https://github.com/VidushiSingh56/LeetCode/tree/master/0229-majority-element-ii) |
 | [0906-walking-robot-simulation](https://github.com/VidushiSingh56/LeetCode/tree/master/0906-walking-robot-simulation) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/VidushiSingh56/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Sorting
 |  |
 | ------- |
@@ -201,6 +203,7 @@
 | [0328-odd-even-linked-list](https://github.com/VidushiSingh56/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/VidushiSingh56/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/VidushiSingh56/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/VidushiSingh56/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Math
 |  |
 | ------- |
