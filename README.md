@@ -69,6 +69,7 @@
 | [0056-merge-intervals](https://github.com/VidushiSingh56/LeetCode/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/VidushiSingh56/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/VidushiSingh56/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/VidushiSingh56/LeetCode/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/VidushiSingh56/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/VidushiSingh56/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/VidushiSingh56/LeetCode/tree/master/0090-subsets-ii) |
@@ -184,6 +185,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/VidushiSingh56/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/VidushiSingh56/LeetCode/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/VidushiSingh56/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [2047-find-a-peak-element-ii](https://github.com/VidushiSingh56/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 ## Linked List
@@ -233,6 +235,7 @@
 | [0039-combination-sum](https://github.com/VidushiSingh56/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/VidushiSingh56/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/VidushiSingh56/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/VidushiSingh56/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/VidushiSingh56/LeetCode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/VidushiSingh56/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/VidushiSingh56/LeetCode/tree/master/0216-combination-sum-iii) |
@@ -260,6 +263,7 @@
 | [0022-generate-parentheses](https://github.com/VidushiSingh56/LeetCode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VidushiSingh56/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/VidushiSingh56/LeetCode/tree/master/0038-count-and-say) |
+| [0079-word-search](https://github.com/VidushiSingh56/LeetCode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/VidushiSingh56/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0686-repeated-string-match](https://github.com/VidushiSingh56/LeetCode/tree/master/0686-repeated-string-match) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/VidushiSingh56/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
