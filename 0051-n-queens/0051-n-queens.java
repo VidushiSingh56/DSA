@@ -9,11 +9,14 @@ class Solution {
                 board[i][j]='.';
             }
         }
+        int left[]=new int[n];
+        int lowerdia[]=new int[2*n-1];
+        int upperdia[]=new int[2*n-1];
         List<List<String>> ans = new ArrayList<>();
-        solve(0, board, ans);
+        solve(0, board, ans,left, lowerdia, upperdia );
         return ans;
     }
-    public void solve(int col, char[][] board, List<List<String>> ans)
+    public void solve(int col, char[][] board, List<List<String>> ans, int left[], int lowerdia[], int upperdia[])
     {
         if(col == board.length)
         {
@@ -24,44 +27,50 @@ class Solution {
 
         for(int row = 0;row<board.length;row++)
         {
-            if(isSafe(col, row, board))
+            if(left[row] == 0 && lowerdia[row + col] == 0 && upperdia[board.length - 1 + col - row] == 0)
             {
                 board[row][col] = 'Q';
-                solve(col+1,  board, ans);
+                left[row] = 1;
+                lowerdia[row + col] = 1;
+                upperdia[board.length - 1 + col - row] = 1;
+                solve(col+1,  board, ans, left, lowerdia, upperdia);
                 board[row][col]='.';
+                left[row] = 0;
+                lowerdia[row + col] = 0;
+                upperdia[board.length - 1 + col - row] = 0;
             }
         }
 
     }
-    public boolean isSafe(int col, int row, char[][] board)
-    {
-        int Row = row,Col = col;
-        while(col>=0 && row>=0)//upper dia
-        {
-            if(board[row][col] == 'Q')
-            return false;
-            row--;
-            col--;
-        }
-        row = Row;
-        col = Col;
-        while(col>=0 && row<board.length)//lower dia
-        {
-            if(board[row][col] == 'Q')
-            return false;
-            row++;
-            col--;
-        }
-        row = Row;
-        col = Col;
-        while(col>=0)//left
-        {
-            if(board[row][col] == 'Q')
-            return false;
-            col--;
-        }
-        return true;
-    }
+    // public boolean isSafe(int col, int row, char[][] board)
+    // {
+    //     int Row = row,Col = col;
+    //     while(col>=0 && row>=0)//upper dia
+    //     {
+    //         if(board[row][col] == 'Q')
+    //         return false;
+    //         row--;
+    //         col--;
+    //     }
+    //     row = Row;
+    //     col = Col;
+    //     while(col>=0 && row<board.length)//lower dia
+    //     {
+    //         if(board[row][col] == 'Q')
+    //         return false;
+    //         row++;
+    //         col--;
+    //     }
+    //     row = Row;
+    //     col = Col;
+    //     while(col>=0)//left
+    //     {
+    //         if(board[row][col] == 'Q')
+    //         return false;
+    //         col--;
+    //     }
+    //     return true;
+    // }
 
     public List<String> build(char[][] board)
     {
