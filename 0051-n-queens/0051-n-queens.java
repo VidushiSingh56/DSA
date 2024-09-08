@@ -42,35 +42,6 @@ class Solution {
         }
 
     }
-    // public boolean isSafe(int col, int row, char[][] board)
-    // {
-    //     int Row = row,Col = col;
-    //     while(col>=0 && row>=0)//upper dia
-    //     {
-    //         if(board[row][col] == 'Q')
-    //         return false;
-    //         row--;
-    //         col--;
-    //     }
-    //     row = Row;
-    //     col = Col;
-    //     while(col>=0 && row<board.length)//lower dia
-    //     {
-    //         if(board[row][col] == 'Q')
-    //         return false;
-    //         row++;
-    //         col--;
-    //     }
-    //     row = Row;
-    //     col = Col;
-    //     while(col>=0)//left
-    //     {
-    //         if(board[row][col] == 'Q')
-    //         return false;
-    //         col--;
-    //     }
-    //     return true;
-    // }
 
     public List<String> build(char[][] board)
     {
