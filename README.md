@@ -80,6 +80,7 @@
 | [0229-majority-element-ii](https://github.com/VidushiSingh56/LeetCode/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/VidushiSingh56/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/VidushiSingh56/LeetCode/tree/master/0493-reverse-pairs) |
+| [0496-next-greater-element-i](https://github.com/VidushiSingh56/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/VidushiSingh56/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0906-walking-robot-simulation](https://github.com/VidushiSingh56/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/VidushiSingh56/LeetCode/tree/master/0907-koko-eating-bananas) |
@@ -103,6 +104,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/VidushiSingh56/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/VidushiSingh56/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0229-majority-element-ii](https://github.com/VidushiSingh56/LeetCode/tree/master/0229-majority-element-ii) |
+| [0496-next-greater-element-i](https://github.com/VidushiSingh56/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0906-walking-robot-simulation](https://github.com/VidushiSingh56/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/VidushiSingh56/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Sorting
@@ -234,6 +236,7 @@
 | [0225-implement-stack-using-queues](https://github.com/VidushiSingh56/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/VidushiSingh56/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/VidushiSingh56/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/VidushiSingh56/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/VidushiSingh56/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Backtracking
 |  |
@@ -319,4 +322,8 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/VidushiSingh56/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/VidushiSingh56/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/VidushiSingh56/LeetCode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
