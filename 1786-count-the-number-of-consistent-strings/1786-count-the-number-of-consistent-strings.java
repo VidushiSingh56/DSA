@@ -10,14 +10,14 @@ class Solution {
         int ans =0;
         for(int i = 0; i<words.length;i++)
         {
-            int flag = 0;
+            boolean flag = true;
             for(int j =0; j<words[i].length(); j++)
             {
                 char cha = words[i].charAt(j);
-                if(ch.contains(cha))
-                flag++;
+                if(!ch.contains(cha))
+                flag = false;
             }
-            if(flag == words[i].length())
+            if(flag)
             ans++;
         }
         return ans;
