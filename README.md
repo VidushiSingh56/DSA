@@ -96,6 +96,7 @@
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/VidushiSingh56/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2047-find-a-peak-element-ii](https://github.com/VidushiSingh56/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2155-find-missing-observations](https://github.com/VidushiSingh56/LeetCode/tree/master/2155-find-missing-observations) |
+| [2227-sum-of-subarray-ranges](https://github.com/VidushiSingh56/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 | [2411-spiral-matrix-iv](https://github.com/VidushiSingh56/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [3483-alternating-groups-ii](https://github.com/VidushiSingh56/LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/VidushiSingh56/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -250,6 +251,7 @@
 | [0503-next-greater-element-ii](https://github.com/VidushiSingh56/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/VidushiSingh56/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/VidushiSingh56/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [2227-sum-of-subarray-ranges](https://github.com/VidushiSingh56/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 ## Backtracking
 |  |
 | ------- |
@@ -346,6 +348,7 @@
 | [0496-next-greater-element-i](https://github.com/VidushiSingh56/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/VidushiSingh56/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/VidushiSingh56/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
+| [2227-sum-of-subarray-ranges](https://github.com/VidushiSingh56/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 ## Number Theory
 |  |
 | ------- |
