@@ -1,16 +1,7 @@
 class Solution {
     public long subArrayRanges(int[] nums) 
     {
-        int n = nums.length;
-        long lSum=0, sSum =0;
-        // for(int i = 0;i<n;i++)
-        // {
-        //     lSum = lSum + maximumsum(nums, i);
-        //     sSum = sSum + minimumsum(nums,i);
-        // }
-        lSum = maximumsum(nums);
-        sSum = minimumsum(nums);
-        return lSum-sSum;
+        return  maximumsum(nums)-minimumsum(nums);
     }
     public long maximumsum(int[] nums)
     {
