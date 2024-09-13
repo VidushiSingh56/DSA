@@ -8,7 +8,7 @@ class Solution {
         String s = "";
         for(int i = 0;i< n;i++)
         {
-            while(!st.isEmpty() && k>0 && st.peek()>num.charAt(i))
+            while(!st.isEmpty() && k>0 && st.peek()-'0'>num.charAt(i)-'0')
             {
                 st.pop();
                 k--;
