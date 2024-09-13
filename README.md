@@ -91,6 +91,7 @@
 | [0943-sum-of-subarray-minimums](https://github.com/VidushiSingh56/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/VidushiSingh56/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/VidushiSingh56/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1435-xor-queries-of-a-subarray](https://github.com/VidushiSingh56/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1646-kth-missing-positive-number](https://github.com/VidushiSingh56/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1675-magnetic-force-between-two-balls](https://github.com/VidushiSingh56/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/VidushiSingh56/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -276,6 +277,7 @@
 | ------- |
 | [0078-subsets](https://github.com/VidushiSingh56/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/VidushiSingh56/LeetCode/tree/master/0090-subsets-ii) |
+| [1435-xor-queries-of-a-subarray](https://github.com/VidushiSingh56/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/VidushiSingh56/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/VidushiSingh56/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Simulation
@@ -290,6 +292,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1435-xor-queries-of-a-subarray](https://github.com/VidushiSingh56/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/VidushiSingh56/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## String
 |  |
