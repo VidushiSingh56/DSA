@@ -24,6 +24,12 @@ class Solution {
         {
             s = s+st.pop();
         }
+        int len=s.length();
+        while(s!=""&& len>1 && s.charAt(len-1) == '0')
+        {
+            s=s.substring(0, len-1);
+            len--;
+        }
         return reverse(s);
     }
     public String reverse(String s)
@@ -33,14 +39,14 @@ class Solution {
         {
             st = st+s.charAt(i);
         }
-        int i =0;
-        System.out.print(st + " ");
-        while(st.length()>1 && st.charAt(i) == '0')
-        {
-            st = st.substring(i+1, st.length());
-             System.out.print(st + " ");
-            i=0;
-        }
+        // int i =0;
+        // System.out.print(st + " ");
+        // while(st.length()>1 && st.charAt(i) == '0')
+        // {
+        //     st = st.substring(i+1, st.length());
+        //      System.out.print(st + " ");
+        //     i=0;
+        // }
         return st;
     }
 }
