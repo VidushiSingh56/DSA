@@ -74,6 +74,7 @@
 | [0079-word-search](https://github.com/VidushiSingh56/LeetCode/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/VidushiSingh56/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/VidushiSingh56/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/VidushiSingh56/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/VidushiSingh56/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/VidushiSingh56/LeetCode/tree/master/0090-subsets-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/VidushiSingh56/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -202,6 +203,7 @@
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/VidushiSingh56/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/VidushiSingh56/LeetCode/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/VidushiSingh56/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/VidushiSingh56/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [2047-find-a-peak-element-ii](https://github.com/VidushiSingh56/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2411-spiral-matrix-iv](https://github.com/VidushiSingh56/LeetCode/tree/master/2411-spiral-matrix-iv) |
@@ -249,6 +251,7 @@
 | [0020-valid-parentheses](https://github.com/VidushiSingh56/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/VidushiSingh56/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/VidushiSingh56/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/VidushiSingh56/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0225-implement-stack-using-queues](https://github.com/VidushiSingh56/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/VidushiSingh56/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/VidushiSingh56/LeetCode/tree/master/0234-palindrome-linked-list) |
@@ -321,6 +324,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/VidushiSingh56/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/VidushiSingh56/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/VidushiSingh56/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0131-palindrome-partitioning](https://github.com/VidushiSingh56/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0943-sum-of-subarray-minimums](https://github.com/VidushiSingh56/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 ## String Matching
@@ -359,6 +363,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/VidushiSingh56/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/VidushiSingh56/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/VidushiSingh56/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/VidushiSingh56/LeetCode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/VidushiSingh56/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/VidushiSingh56/LeetCode/tree/master/0503-next-greater-element-ii) |
