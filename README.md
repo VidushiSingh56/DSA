@@ -108,6 +108,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/VidushiSingh56/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/VidushiSingh56/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0138-copy-list-with-random-pointer](https://github.com/VidushiSingh56/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/VidushiSingh56/LeetCode/tree/master/0141-linked-list-cycle) |
@@ -199,6 +200,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/VidushiSingh56/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [3483-alternating-groups-ii](https://github.com/VidushiSingh56/LeetCode/tree/master/3483-alternating-groups-ii) |
 ## Matrix
 |  |
@@ -306,6 +308,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/VidushiSingh56/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/VidushiSingh56/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/VidushiSingh56/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/VidushiSingh56/LeetCode/tree/master/0020-valid-parentheses) |
