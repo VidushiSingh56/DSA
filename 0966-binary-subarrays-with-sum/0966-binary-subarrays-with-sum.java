@@ -11,7 +11,7 @@ class Solution {
         int right =0, left =0, count=0,sum=0;
         while(right<nums.length)
         {
-            sum = sum+nums[right];
+            sum+=nums[right];
             System.out.print(sum+" ");
             while(sum>goal)
             {
