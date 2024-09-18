@@ -10,12 +10,12 @@ class Solution {
 
     if(str[0].equals("0"))
     return "0";
-    StringBuilder sb = new StringBuilder();
+    String s = "";
     
     for(int i =0;i<str.length;i++)
     {
-        sb.append(str[i]);
+        s=s+str[i];
     }
-    return sb.toString();
+    return s;
     }
 }
