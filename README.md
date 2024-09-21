@@ -381,6 +381,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/VidushiSingh56/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [1484-linked-list-in-binary-tree](https://github.com/VidushiSingh56/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -425,4 +426,8 @@
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/VidushiSingh56/LeetCode/tree/master/0937-online-stock-span) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/VidushiSingh56/LeetCode/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
