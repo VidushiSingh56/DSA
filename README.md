@@ -299,6 +299,7 @@
 | [0042-trapping-rain-water](https://github.com/VidushiSingh56/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/VidushiSingh56/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/VidushiSingh56/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0094-binary-tree-inorder-traversal](https://github.com/VidushiSingh56/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/VidushiSingh56/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/VidushiSingh56/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/VidushiSingh56/LeetCode/tree/master/0232-implement-queue-using-stacks) |
@@ -407,12 +408,14 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/VidushiSingh56/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/VidushiSingh56/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/VidushiSingh56/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [1484-linked-list-in-binary-tree](https://github.com/VidushiSingh56/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/VidushiSingh56/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/VidushiSingh56/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0386-lexicographical-numbers](https://github.com/VidushiSingh56/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [1484-linked-list-in-binary-tree](https://github.com/VidushiSingh56/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
@@ -424,6 +427,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/VidushiSingh56/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/VidushiSingh56/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/VidushiSingh56/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [1484-linked-list-in-binary-tree](https://github.com/VidushiSingh56/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
