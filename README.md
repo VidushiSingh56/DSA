@@ -193,6 +193,7 @@
 | [0567-permutation-in-string](https://github.com/VidushiSingh56/LeetCode/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/VidushiSingh56/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1923-sentence-similarity-iii](https://github.com/VidushiSingh56/LeetCode/tree/master/1923-sentence-similarity-iii) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/VidushiSingh56/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/VidushiSingh56/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/VidushiSingh56/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Binary Search
@@ -325,6 +326,7 @@
 | [0943-sum-of-subarray-minimums](https://github.com/VidushiSingh56/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/VidushiSingh56/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/VidushiSingh56/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/VidushiSingh56/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2227-sum-of-subarray-ranges](https://github.com/VidushiSingh56/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/VidushiSingh56/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Backtracking
@@ -396,6 +398,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/VidushiSingh56/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1923-sentence-similarity-iii](https://github.com/VidushiSingh56/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/VidushiSingh56/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/VidushiSingh56/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/VidushiSingh56/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/VidushiSingh56/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/VidushiSingh56/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -407,6 +410,7 @@
 | [0402-remove-k-digits](https://github.com/VidushiSingh56/LeetCode/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/VidushiSingh56/LeetCode/tree/master/0455-assign-cookies) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/VidushiSingh56/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/VidushiSingh56/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Dynamic Programming
 |  |
 | ------- |
