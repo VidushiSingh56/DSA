@@ -465,6 +465,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/VidushiSingh56/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/VidushiSingh56/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/VidushiSingh56/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/VidushiSingh56/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/VidushiSingh56/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/VidushiSingh56/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 ## Depth-First Search
@@ -519,6 +520,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/VidushiSingh56/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/VidushiSingh56/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/VidushiSingh56/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/VidushiSingh56/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/VidushiSingh56/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/VidushiSingh56/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 ## Design
@@ -587,4 +589,5 @@
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/VidushiSingh56/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/VidushiSingh56/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
