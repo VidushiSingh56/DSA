@@ -79,6 +79,7 @@
 | [0090-subsets-ii](https://github.com/VidushiSingh56/LeetCode/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/VidushiSingh56/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/VidushiSingh56/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0152-maximum-product-subarray](https://github.com/VidushiSingh56/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/VidushiSingh56/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/VidushiSingh56/LeetCode/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/VidushiSingh56/LeetCode/tree/master/0179-largest-number) |
@@ -447,6 +448,7 @@
 | [0085-maximal-rectangle](https://github.com/VidushiSingh56/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/VidushiSingh56/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/VidushiSingh56/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0152-maximum-product-subarray](https://github.com/VidushiSingh56/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/VidushiSingh56/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/VidushiSingh56/LeetCode/tree/master/0213-house-robber-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/VidushiSingh56/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
