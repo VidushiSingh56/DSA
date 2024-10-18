@@ -11,7 +11,7 @@ class Solution {
         }
         for(int it[] : prerequisites)
         {
-            adj.get(it[0]).add(it[1]);
+            adj.get(it[1]).add(it[0]);
         }
         List<Integer> topo = new ArrayList<>();
         Queue<Integer> st = new LinkedList<>();
