@@ -504,6 +504,7 @@
 | [0386-lexicographical-numbers](https://github.com/VidushiSingh56/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/VidushiSingh56/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/VidushiSingh56/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0801-is-graph-bipartite](https://github.com/VidushiSingh56/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/VidushiSingh56/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/VidushiSingh56/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 ## Breadth-First Search
@@ -516,6 +517,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/VidushiSingh56/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/VidushiSingh56/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/VidushiSingh56/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0801-is-graph-bipartite](https://github.com/VidushiSingh56/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/VidushiSingh56/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/VidushiSingh56/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 ## Binary Tree
@@ -615,4 +617,12 @@
 | [0783-search-in-a-binary-search-tree](https://github.com/VidushiSingh56/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/VidushiSingh56/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/VidushiSingh56/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+## Union Find
+|  |
+| ------- |
+| [0801-is-graph-bipartite](https://github.com/VidushiSingh56/LeetCode/tree/master/0801-is-graph-bipartite) |
+## Graph
+|  |
+| ------- |
+| [0801-is-graph-bipartite](https://github.com/VidushiSingh56/LeetCode/tree/master/0801-is-graph-bipartite) |
 <!---LeetCode Topics End-->
