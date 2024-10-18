@@ -121,6 +121,7 @@
 | [2047-find-a-peak-element-ii](https://github.com/VidushiSingh56/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/VidushiSingh56/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2155-find-missing-observations](https://github.com/VidushiSingh56/LeetCode/tree/master/2155-find-missing-observations) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/VidushiSingh56/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2227-sum-of-subarray-ranges](https://github.com/VidushiSingh56/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 | [2411-spiral-matrix-iv](https://github.com/VidushiSingh56/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/VidushiSingh56/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -366,6 +367,7 @@
 | [0090-subsets-ii](https://github.com/VidushiSingh56/LeetCode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/VidushiSingh56/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/VidushiSingh56/LeetCode/tree/master/0216-combination-sum-iii) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/VidushiSingh56/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -375,6 +377,7 @@
 | [1435-xor-queries-of-a-subarray](https://github.com/VidushiSingh56/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/VidushiSingh56/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/VidushiSingh56/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/VidushiSingh56/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/VidushiSingh56/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/VidushiSingh56/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Simulation
@@ -638,4 +641,8 @@
 | ------- |
 | [0207-course-schedule](https://github.com/VidushiSingh56/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/VidushiSingh56/LeetCode/tree/master/0210-course-schedule-ii) |
+## Enumeration
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/VidushiSingh56/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 <!---LeetCode Topics End-->
