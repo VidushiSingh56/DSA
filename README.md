@@ -420,6 +420,7 @@
 | [0686-repeated-string-match](https://github.com/VidushiSingh56/LeetCode/tree/master/0686-repeated-string-match) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/VidushiSingh56/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/VidushiSingh56/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1250-longest-common-subsequence](https://github.com/VidushiSingh56/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1304-longest-happy-string](https://github.com/VidushiSingh56/LeetCode/tree/master/1304-longest-happy-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/VidushiSingh56/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/VidushiSingh56/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -456,6 +457,7 @@
 | [0198-house-robber](https://github.com/VidushiSingh56/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/VidushiSingh56/LeetCode/tree/master/0213-house-robber-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/VidushiSingh56/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
+| [1250-longest-common-subsequence](https://github.com/VidushiSingh56/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [2755-extra-characters-in-a-string](https://github.com/VidushiSingh56/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 ## String Matching
 |  |
