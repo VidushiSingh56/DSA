@@ -130,6 +130,7 @@
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/VidushiSingh56/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/VidushiSingh56/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/VidushiSingh56/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/VidushiSingh56/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/VidushiSingh56/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2755-extra-characters-in-a-string](https://github.com/VidushiSingh56/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/VidushiSingh56/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -185,6 +186,7 @@
 | [2179-most-beautiful-item-for-each-query](https://github.com/VidushiSingh56/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/VidushiSingh56/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/VidushiSingh56/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/VidushiSingh56/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Counting
 |  |
 | ------- |
@@ -216,6 +218,7 @@
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/VidushiSingh56/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/VidushiSingh56/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/VidushiSingh56/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/VidushiSingh56/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -240,6 +243,7 @@
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/VidushiSingh56/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2047-find-a-peak-element-ii](https://github.com/VidushiSingh56/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/VidushiSingh56/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/VidushiSingh56/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/VidushiSingh56/LeetCode/tree/master/2716-prime-subtraction-operation) |
 ## Divide and Conquer
 |  |
