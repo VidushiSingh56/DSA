@@ -1,23 +1,49 @@
 class Solution {
-    public boolean canPartition(int[] nums) {
-        int sum = 0;
-        for (int num : nums) {
-            sum += num;
+    public boolean canPartition(int[] arr) {
+        int n = arr.length;
+       int totSum = 0;
+        for (int i = 0; i < n; i++) {
+            totSum += arr[i];
         }
-        // If sum is odd, we can't partition it into two equal subsets
-        if (sum % 2 != 0) return false;
-        
-        int target = sum / 2;
-        boolean[] dp = new boolean[target + 1];
-        dp[0] = true;  // Base case: zero sum is always achievable
 
-        // Populate dp array
-        for (int num : nums) {
-            for (int j = target; j >= num; j--) {
-                dp[j] = dp[j] || dp[j - num];
+        // If the total sum is odd, it cannot be partitioned into equal subsets
+        if (totSum % 2 == 1) 
+            return false;
+        else {
+            // Calculate the target sum for each subset
+            int k = totSum / 2;
+            // Create a DP table to store the results of subproblems
+            boolean dp[][] = new boolean[n][k + 1];
+
+            // Initialize the first row of the DP table
+            for (int i = 0; i < n; i++) {
+                dp[i][0] = true;
             }
+
+            // Initialize the first column of the DP table
+            if (arr[0] <= k) {
+                dp[0][arr[0]] = true;
+            }
+
+            // Fill in the DP table using bottom-up dynamic programming
+            for (int ind = 1; ind < n; ind++) {
+                for (int target = 1; target <= k; target++) {
+                    // Calculate if the current element is not taken
+                    boolean notTaken = dp[ind - 1][target];
+
+                    // Calculate if the current element is taken
+                    boolean taken = false;
+                    if (arr[ind] <= target) {
+                        taken = dp[ind - 1][target - arr[ind]];
+                    }
+
+                    // Update the DP table for the current element and target sum
+                    dp[ind][target] = notTaken || taken;
+                }
+            }
+
+            // The result is stored in the last cell of the DP table
+            return dp[n - 1][k];
         }
-        
-        return dp[target];
     }
 }
