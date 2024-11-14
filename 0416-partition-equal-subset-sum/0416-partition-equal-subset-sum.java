@@ -9,17 +9,20 @@ class Solution {
         // If the total sum is odd, it cannot be partitioned into equal subsets
         if (totSum % 2 == 1) 
             return false;
-        else {
+       
             // Calculate the target sum for each subset
             int k = totSum / 2;
             // Create a DP table to store the results of subproblems
             boolean dp[][] = new boolean[n][k + 1];
 
+            for(boolean i[] : dp)
+            Arrays.fill(i, false);
             // Initialize the first row of the DP table
             for (int i = 0; i < n; i++) {
                 dp[i][0] = true;
             }
 
+            
             // Initialize the first column of the DP table
             if (arr[0] <= k) {
                 dp[0][arr[0]] = true;
@@ -44,6 +47,6 @@ class Solution {
 
             // The result is stored in the last cell of the DP table
             return dp[n - 1][k];
-        }
+        
     }
 }
