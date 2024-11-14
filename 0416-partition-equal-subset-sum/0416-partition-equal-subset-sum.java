@@ -1,92 +1,23 @@
-// class Solution {
-//     public boolean canPartition(int[] nums) 
-//     {
-//         int sum = 0;
-//         for(int i =0;i<nums.length;i++)
-//         {
-//             sum += nums[i];
-//         }
-//         if(sum%2 != 0)
-//         return false;
-        
-//         int dp[][] = new int[nums.length][(sum/2)+1];
-//         for (int[] row : dp) 
-//         {
-//             Arrays.fill(row, -1);
-//         }
-//         return f(nums, nums.length-1, sum/2, dp); 
-//     }
-//     public boolean f(int[] num, int n, int target, int dp[][])
-//     {
-//         if(target == 0)
-//         {
-//             return true;
-//         }
-
-//         if(n<0)
-//         return false;
-
-//         if(dp[n][target] != -1)return dp[n][target] == 0 ? false : true;
-
-//         boolean nonpick = f(num, n-1, target, dp);
-//         boolean pick = false;
-//         if(num[n]<=target)
-//         pick = f(num, n-1, target-num[n], dp);
-        
-//         boolean ans = pick || nonpick;
-
-//         dp[n][target] = ans == false ? 0 : 1; 
-//         return dp[n][target] == 0 ? false : true;
-//     }
-// }
-
-
-
 class Solution {
-    public boolean canPartition(int[] nums) 
-    {
-        int n = nums.length;
+    public boolean canPartition(int[] nums) {
         int sum = 0;
-        
-        
-        
-        for(int i =0;i<n;i++)
-        {
-            sum += nums[i];
+        for (int num : nums) {
+            sum += num;
         }
-        int target = sum/2;
-        int dp[][] = new int[n][target+1];
+        // If sum is odd, we can't partition it into two equal subsets
+        if (sum % 2 != 0) return false;
+        
+        int target = sum / 2;
+        boolean[] dp = new boolean[target + 1];
+        dp[0] = true;  // Base case: zero sum is always achievable
 
-        if(sum % 2 == 1)
-        return false;
-
-        else
-        {
-            for(int i[] : dp)
-            Arrays.fill(i, -1);
-            if(check(nums, sum/2, n-1, dp) == 1)
-            return true;
+        // Populate dp array
+        for (int num : nums) {
+            for (int j = target; j >= num; j--) {
+                dp[j] = dp[j] || dp[j - num];
+            }
         }
-        return false;
-    }
-    public int check(int nums[], int target, int ind, int[][] dp)
-    {
-        if(target == 0)
-        return 1;
-
-        if(ind == 0)
-        return (nums[0] == target ? 1 : 0);
-
-        if(dp[ind][target] != -1)
-        return dp[ind][target];
-
-        int nontake = check(nums, target, ind-1, dp);
-        int take = 0;
-
-        if(target>= nums[ind])
-        take = check(nums, target-nums[ind], ind-1, dp);
-
-        dp[ind][target] = (take == nontake && take == 0) ? 0 : 1;
-        return dp[ind][target];
+        
+        return dp[target];
     }
 }
