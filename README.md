@@ -125,6 +125,7 @@
 | [2155-find-missing-observations](https://github.com/VidushiSingh56/LeetCode/tree/master/2155-find-missing-observations) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/VidushiSingh56/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/VidushiSingh56/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/VidushiSingh56/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2227-sum-of-subarray-ranges](https://github.com/VidushiSingh56/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 | [2411-spiral-matrix-iv](https://github.com/VidushiSingh56/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/VidushiSingh56/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -244,6 +245,7 @@
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/VidushiSingh56/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2047-find-a-peak-element-ii](https://github.com/VidushiSingh56/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/VidushiSingh56/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/VidushiSingh56/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/VidushiSingh56/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/VidushiSingh56/LeetCode/tree/master/2716-prime-subtraction-operation) |
 ## Divide and Conquer
