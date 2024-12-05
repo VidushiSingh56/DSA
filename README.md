@@ -229,6 +229,7 @@
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/VidushiSingh56/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/VidushiSingh56/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/VidushiSingh56/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/VidushiSingh56/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Binary Search
 |  |
 | ------- |
@@ -468,6 +469,7 @@
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/VidushiSingh56/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/VidushiSingh56/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/VidushiSingh56/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/VidushiSingh56/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/VidushiSingh56/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Greedy
 |  |
