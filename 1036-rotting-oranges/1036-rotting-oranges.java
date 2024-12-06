@@ -4,7 +4,7 @@ class Solution {
         int m = grid.length;
         int n = grid[0].length;
 
-        int fresh = 0, count = 0, rotten = 0;
+        int fresh = 0;
         Queue<int[]> q = new LinkedList<>();
         for(int i = 0;i<m;i++)
         {
@@ -17,7 +17,7 @@ class Solution {
                 fresh++;
             }
         }
-        int rot = q.size();
+        
         if(fresh == 0)
         return 0;
 
@@ -28,7 +28,7 @@ class Solution {
         while(!q.isEmpty())
         {
             int size = q.size();
-            cnt += size; 
+            
            for(int j = 0;j<size;j++)
            {
                 int ar[] = q.poll();
@@ -46,6 +46,7 @@ class Solution {
                     }
                     if(grid[xh][yh] == 1)
                     {
+                        fresh--;
                         grid[xh][yh] = 2;
                         q.offer(new int[]{xh,yh});
                     }
@@ -54,9 +55,6 @@ class Solution {
            if(!q.isEmpty())
            total_min += 1;
         }
-        if(fresh+rot > cnt)
-        return -1;
-
-        return total_min;
+        return fresh == 0 ? total_min : -1;
     }
 }
