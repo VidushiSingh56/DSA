@@ -106,6 +106,7 @@
 | [0943-sum-of-subarray-minimums](https://github.com/VidushiSingh56/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [0966-binary-subarrays-with-sum](https://github.com/VidushiSingh56/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1002-maximum-width-ramp](https://github.com/VidushiSingh56/LeetCode/tree/master/1002-maximum-width-ramp) |
+| [1036-rotting-oranges](https://github.com/VidushiSingh56/LeetCode/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/VidushiSingh56/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/VidushiSingh56/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/VidushiSingh56/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -313,6 +314,7 @@
 | [0085-maximal-rectangle](https://github.com/VidushiSingh56/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/VidushiSingh56/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0733-flood-fill](https://github.com/VidushiSingh56/LeetCode/tree/master/0733-flood-fill) |
+| [1036-rotting-oranges](https://github.com/VidushiSingh56/LeetCode/tree/master/1036-rotting-oranges) |
 | [2047-find-a-peak-element-ii](https://github.com/VidushiSingh56/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2411-spiral-matrix-iv](https://github.com/VidushiSingh56/LeetCode/tree/master/2411-spiral-matrix-iv) |
 ## Linked List
@@ -577,6 +579,7 @@
 | [0733-flood-fill](https://github.com/VidushiSingh56/LeetCode/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/VidushiSingh56/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/VidushiSingh56/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1036-rotting-oranges](https://github.com/VidushiSingh56/LeetCode/tree/master/1036-rotting-oranges) |
 | [1484-linked-list-in-binary-tree](https://github.com/VidushiSingh56/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 ## Binary Tree
 |  |
