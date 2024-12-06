@@ -353,6 +353,7 @@
 | [0070-climbing-stairs](https://github.com/VidushiSingh56/LeetCode/tree/master/0070-climbing-stairs) |
 | [0539-minimum-time-difference](https://github.com/VidushiSingh56/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0670-maximum-swap](https://github.com/VidushiSingh56/LeetCode/tree/master/0670-maximum-swap) |
+| [1585-the-kth-factor-of-n](https://github.com/VidushiSingh56/LeetCode/tree/master/1585-the-kth-factor-of-n) |
 | [2155-find-missing-observations](https://github.com/VidushiSingh56/LeetCode/tree/master/2155-find-missing-observations) |
 | [2716-prime-subtraction-operation](https://github.com/VidushiSingh56/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/VidushiSingh56/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -646,6 +647,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [1585-the-kth-factor-of-n](https://github.com/VidushiSingh56/LeetCode/tree/master/1585-the-kth-factor-of-n) |
 | [2716-prime-subtraction-operation](https://github.com/VidushiSingh56/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/VidushiSingh56/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Brainteaser
