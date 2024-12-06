@@ -555,6 +555,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/VidushiSingh56/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/VidushiSingh56/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/VidushiSingh56/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/VidushiSingh56/LeetCode/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/VidushiSingh56/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/VidushiSingh56/LeetCode/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/VidushiSingh56/LeetCode/tree/master/0801-is-graph-bipartite) |
@@ -571,6 +572,7 @@
 | [0207-course-schedule](https://github.com/VidushiSingh56/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/VidushiSingh56/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/VidushiSingh56/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0547-number-of-provinces](https://github.com/VidushiSingh56/LeetCode/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/VidushiSingh56/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/VidushiSingh56/LeetCode/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/VidushiSingh56/LeetCode/tree/master/0801-is-graph-bipartite) |
@@ -680,12 +682,14 @@
 ## Union Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/VidushiSingh56/LeetCode/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/VidushiSingh56/LeetCode/tree/master/0801-is-graph-bipartite) |
 ## Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/VidushiSingh56/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/VidushiSingh56/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0547-number-of-provinces](https://github.com/VidushiSingh56/LeetCode/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/VidushiSingh56/LeetCode/tree/master/0801-is-graph-bipartite) |
 ## Topological Sort
 |  |
