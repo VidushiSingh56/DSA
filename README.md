@@ -95,6 +95,7 @@
 | [0503-next-greater-element-ii](https://github.com/VidushiSingh56/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0539-minimum-time-difference](https://github.com/VidushiSingh56/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/VidushiSingh56/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/VidushiSingh56/LeetCode/tree/master/0542-01-matrix) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/VidushiSingh56/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0729-my-calendar-i](https://github.com/VidushiSingh56/LeetCode/tree/master/0729-my-calendar-i) |
 | [0733-flood-fill](https://github.com/VidushiSingh56/LeetCode/tree/master/0733-flood-fill) |
@@ -313,6 +314,7 @@
 | [0079-word-search](https://github.com/VidushiSingh56/LeetCode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/VidushiSingh56/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/VidushiSingh56/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0542-01-matrix](https://github.com/VidushiSingh56/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/VidushiSingh56/LeetCode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/VidushiSingh56/LeetCode/tree/master/1036-rotting-oranges) |
 | [2047-find-a-peak-element-ii](https://github.com/VidushiSingh56/LeetCode/tree/master/2047-find-a-peak-element-ii) |
@@ -504,6 +506,7 @@
 | [0198-house-robber](https://github.com/VidushiSingh56/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/VidushiSingh56/LeetCode/tree/master/0213-house-robber-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/VidushiSingh56/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0542-01-matrix](https://github.com/VidushiSingh56/LeetCode/tree/master/0542-01-matrix) |
 | [0943-sum-of-subarray-minimums](https://github.com/VidushiSingh56/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [1250-longest-common-subsequence](https://github.com/VidushiSingh56/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [2755-extra-characters-in-a-string](https://github.com/VidushiSingh56/LeetCode/tree/master/2755-extra-characters-in-a-string) |
@@ -574,6 +577,7 @@
 | [0207-course-schedule](https://github.com/VidushiSingh56/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/VidushiSingh56/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/VidushiSingh56/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0542-01-matrix](https://github.com/VidushiSingh56/LeetCode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/VidushiSingh56/LeetCode/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/VidushiSingh56/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/VidushiSingh56/LeetCode/tree/master/0733-flood-fill) |
