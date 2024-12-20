@@ -113,6 +113,7 @@
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/VidushiSingh56/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/VidushiSingh56/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1256-rank-transform-of-an-array](https://github.com/VidushiSingh56/LeetCode/tree/master/1256-rank-transform-of-an-array) |
+| [1333-sort-the-jumbled-numbers](https://github.com/VidushiSingh56/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/VidushiSingh56/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1435-xor-queries-of-a-subarray](https://github.com/VidushiSingh56/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/VidushiSingh56/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -201,6 +202,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/VidushiSingh56/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/VidushiSingh56/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1256-rank-transform-of-an-array](https://github.com/VidushiSingh56/LeetCode/tree/master/1256-rank-transform-of-an-array) |
+| [1333-sort-the-jumbled-numbers](https://github.com/VidushiSingh56/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/VidushiSingh56/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1675-magnetic-force-between-two-balls](https://github.com/VidushiSingh56/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [2164-two-best-non-overlapping-events](https://github.com/VidushiSingh56/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
