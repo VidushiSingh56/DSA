@@ -118,6 +118,7 @@
 | [1435-xor-queries-of-a-subarray](https://github.com/VidushiSingh56/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/VidushiSingh56/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/VidushiSingh56/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1511-count-number-of-teams](https://github.com/VidushiSingh56/LeetCode/tree/master/1511-count-number-of-teams) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/VidushiSingh56/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/VidushiSingh56/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1646-kth-missing-positive-number](https://github.com/VidushiSingh56/LeetCode/tree/master/1646-kth-missing-positive-number) |
@@ -298,11 +299,13 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/VidushiSingh56/LeetCode/tree/master/0493-reverse-pairs) |
+| [1511-count-number-of-teams](https://github.com/VidushiSingh56/LeetCode/tree/master/1511-count-number-of-teams) |
 ## Segment Tree
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/VidushiSingh56/LeetCode/tree/master/0493-reverse-pairs) |
 | [0729-my-calendar-i](https://github.com/VidushiSingh56/LeetCode/tree/master/0729-my-calendar-i) |
+| [1511-count-number-of-teams](https://github.com/VidushiSingh56/LeetCode/tree/master/1511-count-number-of-teams) |
 ## Merge Sort
 |  |
 | ------- |
@@ -546,6 +549,7 @@
 | [0542-01-matrix](https://github.com/VidushiSingh56/LeetCode/tree/master/0542-01-matrix) |
 | [0943-sum-of-subarray-minimums](https://github.com/VidushiSingh56/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [1250-longest-common-subsequence](https://github.com/VidushiSingh56/LeetCode/tree/master/1250-longest-common-subsequence) |
+| [1511-count-number-of-teams](https://github.com/VidushiSingh56/LeetCode/tree/master/1511-count-number-of-teams) |
 | [2164-two-best-non-overlapping-events](https://github.com/VidushiSingh56/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2755-extra-characters-in-a-string](https://github.com/VidushiSingh56/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 ## String Matching
