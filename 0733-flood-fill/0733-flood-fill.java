@@ -1,36 +1,36 @@
 class Solution {
     public int[][] floodFill(int[][] image, int sr, int sc, int color) 
     {
-        int n = image.length;
-        int m = image[0].length;
+        int m = image.length;
+        int n= image[0].length;
 
-        int neirow[] = {-1, 0, 1, 0};
-        int neicol[] = {0, 1, 0, -1};
+        int ar[][] = new int[m][n];
 
-        int ans[][] = new int[n][m];
-        for(int i =0;i<n;i++)
+        for(int i = 0;i<m;i++)
         {
-            for(int j =0;j<m;j++)
+            for(int j = 0;j<n;j++)
             {
-                ans[i][j] = image[i][j];
+                ar[i][j] = image[i][j];
             }
         }
-        int cellcolor = image[sr][sc];
-        dfs(image, sr, sc, color, neirow, neicol, ans, cellcolor);
-        return ans;
+
+        int dx[] = {1,-1,0,0};
+        int dy[] = {0,0,1,-1};
+
+        dfs(image, sr, sc, color, dx, dy, m, n, ar);
+        return ar;
+
     }
-    public void dfs(int[][] image, int sr, int sc, int color, int[] neirow, int[] neicol, int[][] ans, int cell)
+    public void dfs(int[][] image, int sr, int sc, int color, int dx[], int dy[], int m, int n, int ar[][])
     {
-        ans[sr][sc] = color;
-        int n = image.length;
-        int m = image[0].length;
+        ar[sr][sc] = color;
         for(int i = 0;i<4;i++)
         {
-            int nrow = sr + neirow[i];
-            int ncol = sc + neicol[i];
-            if(nrow>=0 && nrow<n && ncol>=0 && ncol<m && ans[nrow][ncol] != color && image[nrow][ncol] == cell)
+            int x = sr+dx[i];
+            int y = sc+dy[i];
+            if(x>=0 && x<m && y>=0 && y<n && image[x][y] == image[sr][sc] && ar[x][y] != color)
             {
-                dfs(image, nrow, ncol, color, neirow, neicol, ans, cell);
+                dfs(image, x, y, color, dx, dy, m, n, ar);
             }
         }
     }
