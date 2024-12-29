@@ -115,6 +115,7 @@
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/VidushiSingh56/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/VidushiSingh56/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1063-best-sightseeing-pair](https://github.com/VidushiSingh56/LeetCode/tree/master/1063-best-sightseeing-pair) |
+| [1073-number-of-enclaves](https://github.com/VidushiSingh56/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1256-rank-transform-of-an-array](https://github.com/VidushiSingh56/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/VidushiSingh56/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/VidushiSingh56/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -345,6 +346,7 @@
 | [0542-01-matrix](https://github.com/VidushiSingh56/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/VidushiSingh56/LeetCode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/VidushiSingh56/LeetCode/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/VidushiSingh56/LeetCode/tree/master/1073-number-of-enclaves) |
 | [2047-find-a-peak-element-ii](https://github.com/VidushiSingh56/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2411-spiral-matrix-iv](https://github.com/VidushiSingh56/LeetCode/tree/master/2411-spiral-matrix-iv) |
 ## Linked List
@@ -619,6 +621,7 @@
 | [0733-flood-fill](https://github.com/VidushiSingh56/LeetCode/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/VidushiSingh56/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/VidushiSingh56/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1073-number-of-enclaves](https://github.com/VidushiSingh56/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1484-linked-list-in-binary-tree](https://github.com/VidushiSingh56/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/VidushiSingh56/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/VidushiSingh56/LeetCode/tree/master/3058-maximum-number-of-k-divisible-components) |
@@ -642,6 +645,7 @@
 | [0801-is-graph-bipartite](https://github.com/VidushiSingh56/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/VidushiSingh56/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/VidushiSingh56/LeetCode/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/VidushiSingh56/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1484-linked-list-in-binary-tree](https://github.com/VidushiSingh56/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/VidushiSingh56/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
@@ -764,6 +768,7 @@
 | [0130-surrounded-regions](https://github.com/VidushiSingh56/LeetCode/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/VidushiSingh56/LeetCode/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/VidushiSingh56/LeetCode/tree/master/0801-is-graph-bipartite) |
+| [1073-number-of-enclaves](https://github.com/VidushiSingh56/LeetCode/tree/master/1073-number-of-enclaves) |
 ## Graph
 |  |
 | ------- |
