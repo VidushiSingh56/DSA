@@ -123,6 +123,7 @@
 | [1468-check-if-n-and-its-double-exist](https://github.com/VidushiSingh56/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/VidushiSingh56/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1511-count-number-of-teams](https://github.com/VidushiSingh56/LeetCode/tree/master/1511-count-number-of-teams) |
+| [1524-string-matching-in-an-array](https://github.com/VidushiSingh56/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/VidushiSingh56/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/VidushiSingh56/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1646-kth-missing-positive-number](https://github.com/VidushiSingh56/LeetCode/tree/master/1646-kth-missing-positive-number) |
@@ -511,6 +512,7 @@
 | [1304-longest-happy-string](https://github.com/VidushiSingh56/LeetCode/tree/master/1304-longest-happy-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/VidushiSingh56/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/VidushiSingh56/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1524-string-matching-in-an-array](https://github.com/VidushiSingh56/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/VidushiSingh56/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/VidushiSingh56/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/VidushiSingh56/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -571,6 +573,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VidushiSingh56/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/VidushiSingh56/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0686-repeated-string-match](https://github.com/VidushiSingh56/LeetCode/tree/master/0686-repeated-string-match) |
+| [1524-string-matching-in-an-array](https://github.com/VidushiSingh56/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/VidushiSingh56/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Tree
 |  |
