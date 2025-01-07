@@ -6,14 +6,14 @@ class Solution
         List<String> list = new ArrayList<>();
         for(int i = 0;i<n;i++)
         {
-            String s = words[i];
+            // String s = words[i];
             for(int j = 0;j<n;j++)
             {
-                String p = words[j];
-                if(i != j && s.length()>=p.length())
+                // String p = words[j];
+                if(i != j)
                 {
-                    if(s.contains(p) && !list.contains(p))
-                    list.add(p);
+                    if(words[i].contains(words[j]) && !list.contains(words[j]))
+                    list.add(words[j]);
                 }
             }
         }
