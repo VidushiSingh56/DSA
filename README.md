@@ -425,6 +425,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/VidushiSingh56/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/VidushiSingh56/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/VidushiSingh56/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1078-remove-outermost-parentheses](https://github.com/VidushiSingh56/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/VidushiSingh56/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/VidushiSingh56/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/VidushiSingh56/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -511,6 +512,7 @@
 | [0686-repeated-string-match](https://github.com/VidushiSingh56/LeetCode/tree/master/0686-repeated-string-match) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/VidushiSingh56/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/VidushiSingh56/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1078-remove-outermost-parentheses](https://github.com/VidushiSingh56/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1250-longest-common-subsequence](https://github.com/VidushiSingh56/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1304-longest-happy-string](https://github.com/VidushiSingh56/LeetCode/tree/master/1304-longest-happy-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/VidushiSingh56/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
