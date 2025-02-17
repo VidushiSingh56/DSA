@@ -616,6 +616,7 @@
 | [0784-insert-into-a-binary-search-tree](https://github.com/VidushiSingh56/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/VidushiSingh56/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/VidushiSingh56/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1157-insufficient-nodes-in-root-to-leaf-paths](https://github.com/VidushiSingh56/LeetCode/tree/master/1157-insufficient-nodes-in-root-to-leaf-paths) |
 | [1484-linked-list-in-binary-tree](https://github.com/VidushiSingh56/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/VidushiSingh56/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/VidushiSingh56/LeetCode/tree/master/3058-maximum-number-of-k-divisible-components) |
@@ -646,6 +647,7 @@
 | [0801-is-graph-bipartite](https://github.com/VidushiSingh56/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/VidushiSingh56/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/VidushiSingh56/LeetCode/tree/master/1073-number-of-enclaves) |
+| [1157-insufficient-nodes-in-root-to-leaf-paths](https://github.com/VidushiSingh56/LeetCode/tree/master/1157-insufficient-nodes-in-root-to-leaf-paths) |
 | [1484-linked-list-in-binary-tree](https://github.com/VidushiSingh56/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/VidushiSingh56/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/VidushiSingh56/LeetCode/tree/master/3058-maximum-number-of-k-divisible-components) |
@@ -698,6 +700,7 @@
 | [0784-insert-into-a-binary-search-tree](https://github.com/VidushiSingh56/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/VidushiSingh56/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/VidushiSingh56/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1157-insufficient-nodes-in-root-to-leaf-paths](https://github.com/VidushiSingh56/LeetCode/tree/master/1157-insufficient-nodes-in-root-to-leaf-paths) |
 | [1484-linked-list-in-binary-tree](https://github.com/VidushiSingh56/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/VidushiSingh56/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Design
