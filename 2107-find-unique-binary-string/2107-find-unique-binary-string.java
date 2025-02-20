@@ -8,20 +8,8 @@ class Solution
         {
             list.add(nums[i]);
         }
-
-        // List<String> numbers = new ArrayList<>();
         String current = "";
         return generate(n, current, list);
-        
-        // for(String i : numbers)
-        // {
-        //     if(!list.contains(i))
-        //     {
-        //         ans = i;
-        //         break;
-        //     }
-        // }
-       
     }
     public String generate(int n, String cur, List<String> list)
     {
