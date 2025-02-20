@@ -9,33 +9,39 @@ class Solution
             list.add(nums[i]);
         }
 
-        List<String> numbers = new ArrayList<>();
+        // List<String> numbers = new ArrayList<>();
         String current = "";
-        generate(numbers, n, current);
-        String ans = "";
-        for(String i : numbers)
-        {
-            if(!list.contains(i))
-            {
-                ans = i;
-                break;
-            }
-        }
-        return ans;
+        return generate(n, current, list);
+        
+        // for(String i : numbers)
+        // {
+        //     if(!list.contains(i))
+        //     {
+        //         ans = i;
+        //         break;
+        //     }
+        // }
+       
     }
-    public void generate(List<String> numbers, int n, String cur)
+    public String generate(int n, String cur, List<String> list)
     {
         if(cur.length() == n)
         {
-            numbers.add(cur);
-            return;
-        }
+            if(!list.contains(cur))
+            return cur;
 
+            else
+            return "";
+        }
+        String s="";
         for(int i = 0;i<=1;i++)
         {
             char a = Character.forDigit(i, 10);
 
-            generate(numbers, n, cur+a);
+            s = generate(n, cur+a, list);
+            if(!s.equals(""))
+            break;
         } 
+        return s;
     }
 }
