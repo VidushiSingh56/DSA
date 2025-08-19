@@ -146,6 +146,7 @@
 | [2227-sum-of-subarray-ranges](https://github.com/VidushiSingh56/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/VidushiSingh56/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2411-spiral-matrix-iv](https://github.com/VidushiSingh56/LeetCode/tree/master/2411-spiral-matrix-iv) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/VidushiSingh56/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/VidushiSingh56/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/VidushiSingh56/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/VidushiSingh56/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -396,6 +397,7 @@
 | [1585-the-kth-factor-of-n](https://github.com/VidushiSingh56/LeetCode/tree/master/1585-the-kth-factor-of-n) |
 | [2032-largest-odd-number-in-string](https://github.com/VidushiSingh56/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2155-find-missing-observations](https://github.com/VidushiSingh56/LeetCode/tree/master/2155-find-missing-observations) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/VidushiSingh56/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2716-prime-subtraction-operation](https://github.com/VidushiSingh56/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/VidushiSingh56/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/VidushiSingh56/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
