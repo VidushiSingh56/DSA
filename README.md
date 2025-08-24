@@ -126,6 +126,7 @@
 | [1524-string-matching-in-an-array](https://github.com/VidushiSingh56/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/VidushiSingh56/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/VidushiSingh56/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/VidushiSingh56/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1646-kth-missing-positive-number](https://github.com/VidushiSingh56/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1675-magnetic-force-between-two-balls](https://github.com/VidushiSingh56/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/VidushiSingh56/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -344,6 +345,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/VidushiSingh56/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/VidushiSingh56/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/VidushiSingh56/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/VidushiSingh56/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/VidushiSingh56/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3483-alternating-groups-ii](https://github.com/VidushiSingh56/LeetCode/tree/master/3483-alternating-groups-ii) |
 ## Matrix
@@ -588,6 +590,7 @@
 | [1063-best-sightseeing-pair](https://github.com/VidushiSingh56/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1250-longest-common-subsequence](https://github.com/VidushiSingh56/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1511-count-number-of-teams](https://github.com/VidushiSingh56/LeetCode/tree/master/1511-count-number-of-teams) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/VidushiSingh56/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2164-two-best-non-overlapping-events](https://github.com/VidushiSingh56/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2562-count-ways-to-build-good-strings](https://github.com/VidushiSingh56/LeetCode/tree/master/2562-count-ways-to-build-good-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/VidushiSingh56/LeetCode/tree/master/2755-extra-characters-in-a-string) |
