@@ -158,6 +158,7 @@
 | [2716-prime-subtraction-operation](https://github.com/VidushiSingh56/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2755-extra-characters-in-a-string](https://github.com/VidushiSingh56/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/VidushiSingh56/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/VidushiSingh56/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3483-alternating-groups-ii](https://github.com/VidushiSingh56/LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/VidushiSingh56/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/VidushiSingh56/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -359,6 +360,7 @@
 | [1073-number-of-enclaves](https://github.com/VidushiSingh56/LeetCode/tree/master/1073-number-of-enclaves) |
 | [2047-find-a-peak-element-ii](https://github.com/VidushiSingh56/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2411-spiral-matrix-iv](https://github.com/VidushiSingh56/LeetCode/tree/master/2411-spiral-matrix-iv) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/VidushiSingh56/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Linked List
 |  |
 | ------- |
