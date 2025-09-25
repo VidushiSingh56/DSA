@@ -1,59 +1,47 @@
-class Solution {
+class Solution 
+{
     public int trap(int[] height) 
     {
-        // int n = height.length;
-        // int total = 0;
-        // int leftMax = height[0];
-        // int right[] = new int[n];
-        // right[n-1]=height[n-1];
-        // int rightMax;
-        // for(int i=n-2;i>=0;i--)
-        // {
-        //     right[i]= Math.max(right[i+1], height[i]);
-        // }
-        // for(int i =0;i<n;i++)
-        // {
-        //     leftMax = Math.max(leftMax, height[i]);
-        //     rightMax = right[i];
-        //     if(height[i]<leftMax && height[i]<rightMax)
-        //     total += Math.min(leftMax, rightMax) - height[i];
-        // }   
-        // return total; 
-        int n=height.length;
-        int leftmax=0;
-        int rightmax=0;
-        int left = 0;
-        int right = n-1;
+        int n = height.length;
+        int nge[] = new int[n];
+        int pge[] = new int[n];
+
+        findnge(nge, height);
+        findpge(pge, height);
+
         int total = 0;
-        while(left <= right)
+        for(int i =0;i<n;i++)
         {
-            if(height[left]<=height[right])
+            int left = pge[i];
+            int right = nge[i];
+
+            if(left == -1 || right == -1)
             {
-                if(leftmax<=height[left])
-                {
-                    leftmax= height[left];
-                }
-                else
-                {
-                    total = total + leftmax - height[left];
-                }
-                left ++;
+                continue;
             }
-            else
-            {
-                if(rightmax<=height[right])
-                {
-                    rightmax=height[right];
-                }
-                else
-                {
-                    total+=rightmax - height[right];
-                }
-                right--;
-            }
-            
-            
+
+            total += Math.abs(Math.min(left, right) - height[i]);
         }
-return total;
+
+        return total;
+    }
+    public void findnge(int nge[], int height[])
+    {
+        int n = height.length;
+        nge[n-1] = height[n-1];
+        for(int i = n-2;i>=0;i--)
+        {
+            nge[i] = Math.max(nge[i+1], height[i]);
+        }
+    }
+
+    public void findpge(int pge[], int height[])
+    {
+        int n = height.length;
+        pge[0] = height[0];
+        for(int i = 1;i<n;i++)
+        {
+            pge[i] = Math.max(pge[i-1], height[i]);
+        }
     }
 }
