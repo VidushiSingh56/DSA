@@ -155,6 +155,7 @@
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/VidushiSingh56/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2227-sum-of-subarray-ranges](https://github.com/VidushiSingh56/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/VidushiSingh56/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/VidushiSingh56/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2411-spiral-matrix-iv](https://github.com/VidushiSingh56/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/VidushiSingh56/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/VidushiSingh56/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -240,6 +241,7 @@
 | [1675-magnetic-force-between-two-balls](https://github.com/VidushiSingh56/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [2164-two-best-non-overlapping-events](https://github.com/VidushiSingh56/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/VidushiSingh56/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/VidushiSingh56/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/VidushiSingh56/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/VidushiSingh56/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/VidushiSingh56/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -285,6 +287,7 @@
 | [1923-sentence-similarity-iii](https://github.com/VidushiSingh56/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/VidushiSingh56/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/VidushiSingh56/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/VidushiSingh56/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/VidushiSingh56/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/VidushiSingh56/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/VidushiSingh56/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -320,6 +323,7 @@
 | [2164-two-best-non-overlapping-events](https://github.com/VidushiSingh56/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/VidushiSingh56/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/VidushiSingh56/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/VidushiSingh56/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/VidushiSingh56/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/VidushiSingh56/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/VidushiSingh56/LeetCode/tree/master/2716-prime-subtraction-operation) |
