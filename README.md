@@ -168,6 +168,7 @@
 | [2699-count-the-number-of-fair-pairs](https://github.com/VidushiSingh56/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/VidushiSingh56/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2755-extra-characters-in-a-string](https://github.com/VidushiSingh56/LeetCode/tree/master/2755-extra-characters-in-a-string) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/VidushiSingh56/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/VidushiSingh56/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/VidushiSingh56/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/VidushiSingh56/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -587,6 +588,7 @@
 | [2755-extra-characters-in-a-string](https://github.com/VidushiSingh56/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/VidushiSingh56/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/VidushiSingh56/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/VidushiSingh56/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/VidushiSingh56/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/VidushiSingh56/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/VidushiSingh56/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -611,6 +613,7 @@
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/VidushiSingh56/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/VidushiSingh56/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/VidushiSingh56/LeetCode/tree/master/2716-prime-subtraction-operation) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/VidushiSingh56/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -639,6 +642,7 @@
 | [2164-two-best-non-overlapping-events](https://github.com/VidushiSingh56/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2562-count-ways-to-build-good-strings](https://github.com/VidushiSingh56/LeetCode/tree/master/2562-count-ways-to-build-good-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/VidushiSingh56/LeetCode/tree/master/2755-extra-characters-in-a-string) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/VidushiSingh56/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## String Matching
 |  |
 | ------- |
