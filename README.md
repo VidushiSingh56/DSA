@@ -70,6 +70,7 @@
 | [0042-trapping-rain-water](https://github.com/VidushiSingh56/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/VidushiSingh56/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/VidushiSingh56/LeetCode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/VidushiSingh56/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/VidushiSingh56/LeetCode/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/VidushiSingh56/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/VidushiSingh56/LeetCode/tree/master/0078-subsets) |
@@ -595,6 +596,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/VidushiSingh56/LeetCode/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/VidushiSingh56/LeetCode/tree/master/0179-largest-number) |
 | [0402-remove-k-digits](https://github.com/VidushiSingh56/LeetCode/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/VidushiSingh56/LeetCode/tree/master/0455-assign-cookies) |
@@ -621,6 +623,7 @@
 | [0022-generate-parentheses](https://github.com/VidushiSingh56/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/VidushiSingh56/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/VidushiSingh56/LeetCode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/VidushiSingh56/LeetCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/VidushiSingh56/LeetCode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/VidushiSingh56/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VidushiSingh56/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
