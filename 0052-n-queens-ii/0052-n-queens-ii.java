@@ -33,16 +33,16 @@ class Solution {
     public boolean canFill(int col, int row, String[][] board, int n) {
 
         // Check row
-        for (int j = 0; j < n; j++) {
+        for (int j = 0; j < col; j++) {
             if (board[row][j].equals("Q"))
                 return false;
         }
 
-        // Check column
-        for (int i = 0; i < n; i++) {
-            if (board[i][col].equals("Q"))
-                return false;
-        }
+        // // Check column
+        // for (int i = 0; i < n; i++) {
+        //     if (board[i][col].equals("Q"))
+        //         return false;
+        // }
 
         // Upper-left diagonal
         int i = row - 1, j = col - 1;
@@ -54,24 +54,24 @@ class Solution {
         }
 
         // Lower-right diagonal
-        i = row + 1;
-        j = col + 1;
-        while (i < n && j < n) {
-            if (board[i][j].equals("Q"))
-                return false;
-            i++;
-            j++;
-        }
+        // i = row + 1;
+        // j = col + 1;
+        // while (i < n && j < n) {
+        //     if (board[i][j].equals("Q"))
+        //         return false;
+        //     i++;
+        //     j++;
+        // }
 
         // Upper-right diagonal
-        i = row - 1;
-        j = col + 1;
-        while (i >= 0 && j < n) {
-            if (board[i][j].equals("Q"))
-                return false;
-            i--;
-            j++;
-        }
+        // i = row - 1;
+        // j = col + 1;
+        // while (i >= 0 && j < n) {
+        //     if (board[i][j].equals("Q"))
+        //         return false;
+        //     i--;
+        //     j++;
+        // }
 
         // Lower-left diagonal
         i = row + 1;
