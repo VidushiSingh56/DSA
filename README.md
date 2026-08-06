@@ -435,6 +435,7 @@
 | [0002-add-two-numbers](https://github.com/VidushiSingh56/LeetCode/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/VidushiSingh56/LeetCode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/VidushiSingh56/LeetCode/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/VidushiSingh56/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/VidushiSingh56/LeetCode/tree/master/0070-climbing-stairs) |
 | [0539-minimum-time-difference](https://github.com/VidushiSingh56/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0670-maximum-swap](https://github.com/VidushiSingh56/LeetCode/tree/master/0670-maximum-swap) |
@@ -513,6 +514,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/VidushiSingh56/LeetCode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/VidushiSingh56/LeetCode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/VidushiSingh56/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/VidushiSingh56/LeetCode/tree/master/0090-subsets-ii) |
 | [0187-repeated-dna-sequences](https://github.com/VidushiSingh56/LeetCode/tree/master/0187-repeated-dna-sequences) |
@@ -526,6 +528,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/VidushiSingh56/LeetCode/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/VidushiSingh56/LeetCode/tree/master/0735-asteroid-collision) |
 | [0906-walking-robot-simulation](https://github.com/VidushiSingh56/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/VidushiSingh56/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -562,6 +565,7 @@
 | [0022-generate-parentheses](https://github.com/VidushiSingh56/LeetCode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VidushiSingh56/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/VidushiSingh56/LeetCode/tree/master/0038-count-and-say) |
+| [0067-add-binary](https://github.com/VidushiSingh56/LeetCode/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/VidushiSingh56/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/VidushiSingh56/LeetCode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/VidushiSingh56/LeetCode/tree/master/0131-palindrome-partitioning) |
