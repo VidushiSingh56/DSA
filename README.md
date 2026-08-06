@@ -192,6 +192,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/VidushiSingh56/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/VidushiSingh56/LeetCode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/VidushiSingh56/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0187-repeated-dna-sequences](https://github.com/VidushiSingh56/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0229-majority-element-ii](https://github.com/VidushiSingh56/LeetCode/tree/master/0229-majority-element-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/VidushiSingh56/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0432-all-oone-data-structure](https://github.com/VidushiSingh56/LeetCode/tree/master/0432-all-oone-data-structure) |
@@ -370,6 +371,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VidushiSingh56/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/VidushiSingh56/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0187-repeated-dna-sequences](https://github.com/VidushiSingh56/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0239-sliding-window-maximum](https://github.com/VidushiSingh56/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/VidushiSingh56/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/VidushiSingh56/LeetCode/tree/master/0567-permutation-in-string) |
@@ -511,6 +513,7 @@
 | ------- |
 | [0078-subsets](https://github.com/VidushiSingh56/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/VidushiSingh56/LeetCode/tree/master/0090-subsets-ii) |
+| [0187-repeated-dna-sequences](https://github.com/VidushiSingh56/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0222-count-complete-tree-nodes](https://github.com/VidushiSingh56/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [1435-xor-queries-of-a-subarray](https://github.com/VidushiSingh56/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/VidushiSingh56/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -562,6 +565,7 @@
 | [0131-palindrome-partitioning](https://github.com/VidushiSingh56/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/VidushiSingh56/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/VidushiSingh56/LeetCode/tree/master/0179-largest-number) |
+| [0187-repeated-dna-sequences](https://github.com/VidushiSingh56/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/VidushiSingh56/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/VidushiSingh56/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0402-remove-k-digits](https://github.com/VidushiSingh56/LeetCode/tree/master/0402-remove-k-digits) |
@@ -905,10 +909,12 @@
 ## Rolling Hash
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/VidushiSingh56/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/VidushiSingh56/LeetCode/tree/master/0214-shortest-palindrome) |
 ## Hash Function
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/VidushiSingh56/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/VidushiSingh56/LeetCode/tree/master/0214-shortest-palindrome) |
 ## Monotonic Queue
 |  |
@@ -931,4 +937,12 @@
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/VidushiSingh56/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
+## Z Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/VidushiSingh56/LeetCode/tree/master/0187-repeated-dna-sequences) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/VidushiSingh56/LeetCode/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
