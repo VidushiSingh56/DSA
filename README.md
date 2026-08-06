@@ -433,6 +433,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/VidushiSingh56/LeetCode/tree/master/0002-add-two-numbers) |
+| [0029-divide-two-integers](https://github.com/VidushiSingh56/LeetCode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/VidushiSingh56/LeetCode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/VidushiSingh56/LeetCode/tree/master/0070-climbing-stairs) |
 | [0539-minimum-time-difference](https://github.com/VidushiSingh56/LeetCode/tree/master/0539-minimum-time-difference) |
@@ -511,6 +512,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/VidushiSingh56/LeetCode/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/VidushiSingh56/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/VidushiSingh56/LeetCode/tree/master/0090-subsets-ii) |
 | [0187-repeated-dna-sequences](https://github.com/VidushiSingh56/LeetCode/tree/master/0187-repeated-dna-sequences) |
