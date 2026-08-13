@@ -156,6 +156,7 @@
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/VidushiSingh56/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/VidushiSingh56/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/VidushiSingh56/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/VidushiSingh56/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2227-sum-of-subarray-ranges](https://github.com/VidushiSingh56/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/VidushiSingh56/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/VidushiSingh56/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -358,6 +359,7 @@
 | [0493-reverse-pairs](https://github.com/VidushiSingh56/LeetCode/tree/master/0493-reverse-pairs) |
 | [0729-my-calendar-i](https://github.com/VidushiSingh56/LeetCode/tree/master/0729-my-calendar-i) |
 | [1511-count-number-of-teams](https://github.com/VidushiSingh56/LeetCode/tree/master/1511-count-number-of-teams) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/VidushiSingh56/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Merge Sort
 |  |
 | ------- |
@@ -368,6 +370,7 @@
 | ------- |
 | [0493-reverse-pairs](https://github.com/VidushiSingh56/LeetCode/tree/master/0493-reverse-pairs) |
 | [0729-my-calendar-i](https://github.com/VidushiSingh56/LeetCode/tree/master/0729-my-calendar-i) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/VidushiSingh56/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Sliding Window
 |  |
 | ------- |
@@ -603,6 +606,7 @@
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/VidushiSingh56/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/VidushiSingh56/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2107-find-unique-binary-string](https://github.com/VidushiSingh56/LeetCode/tree/master/2107-find-unique-binary-string) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/VidushiSingh56/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/VidushiSingh56/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2300-construct-string-with-repeat-limit](https://github.com/VidushiSingh56/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/VidushiSingh56/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
