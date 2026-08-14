@@ -457,6 +457,7 @@
 | [2432-number-of-zero-filled-subarrays](https://github.com/VidushiSingh56/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2716-prime-subtraction-operation](https://github.com/VidushiSingh56/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/VidushiSingh56/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/VidushiSingh56/LeetCode/tree/master/3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/VidushiSingh56/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/VidushiSingh56/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Recursion
@@ -646,6 +647,7 @@
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/VidushiSingh56/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/VidushiSingh56/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/VidushiSingh56/LeetCode/tree/master/2716-prime-subtraction-operation) |
+| [3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/VidushiSingh56/LeetCode/tree/master/3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/VidushiSingh56/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Dynamic Programming
 |  |
@@ -926,6 +928,7 @@
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/VidushiSingh56/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/VidushiSingh56/LeetCode/tree/master/3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/VidushiSingh56/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Rolling Hash
 |  |
