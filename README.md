@@ -149,6 +149,7 @@
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/VidushiSingh56/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1923-sentence-similarity-iii](https://github.com/VidushiSingh56/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/VidushiSingh56/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2029-stone-game-ix](https://github.com/VidushiSingh56/LeetCode/tree/master/2029-stone-game-ix) |
 | [2047-find-a-peak-element-ii](https://github.com/VidushiSingh56/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/VidushiSingh56/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2107-find-unique-binary-string](https://github.com/VidushiSingh56/LeetCode/tree/master/2107-find-unique-binary-string) |
@@ -271,6 +272,7 @@
 | [1034-subarrays-with-k-different-integers](https://github.com/VidushiSingh56/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1160-letter-tile-possibilities](https://github.com/VidushiSingh56/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/VidushiSingh56/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2029-stone-game-ix](https://github.com/VidushiSingh56/LeetCode/tree/master/2029-stone-game-ix) |
 | [2300-construct-string-with-repeat-limit](https://github.com/VidushiSingh56/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/VidushiSingh56/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/VidushiSingh56/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -456,6 +458,7 @@
 | [0539-minimum-time-difference](https://github.com/VidushiSingh56/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0670-maximum-swap](https://github.com/VidushiSingh56/LeetCode/tree/master/0670-maximum-swap) |
 | [1585-the-kth-factor-of-n](https://github.com/VidushiSingh56/LeetCode/tree/master/1585-the-kth-factor-of-n) |
+| [2029-stone-game-ix](https://github.com/VidushiSingh56/LeetCode/tree/master/2029-stone-game-ix) |
 | [2032-largest-odd-number-in-string](https://github.com/VidushiSingh56/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2155-find-missing-observations](https://github.com/VidushiSingh56/LeetCode/tree/master/2155-find-missing-observations) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/VidushiSingh56/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -646,6 +649,7 @@
 | [1304-longest-happy-string](https://github.com/VidushiSingh56/LeetCode/tree/master/1304-longest-happy-string) |
 | [1612-avoid-flood-in-the-city](https://github.com/VidushiSingh56/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/VidushiSingh56/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2029-stone-game-ix](https://github.com/VidushiSingh56/LeetCode/tree/master/2029-stone-game-ix) |
 | [2032-largest-odd-number-in-string](https://github.com/VidushiSingh56/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/VidushiSingh56/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2300-construct-string-with-repeat-limit](https://github.com/VidushiSingh56/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
@@ -979,4 +983,20 @@
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/VidushiSingh56/LeetCode/tree/master/0307-range-sum-query-mutable) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/VidushiSingh56/LeetCode/tree/master/2029-stone-game-ix) |
+## Game Theory
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/VidushiSingh56/LeetCode/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/VidushiSingh56/LeetCode/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/VidushiSingh56/LeetCode/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
