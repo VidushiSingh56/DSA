@@ -114,6 +114,7 @@
 | [0735-asteroid-collision](https://github.com/VidushiSingh56/LeetCode/tree/master/0735-asteroid-collision) |
 | [0794-swim-in-rising-water](https://github.com/VidushiSingh56/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0859-design-circular-deque](https://github.com/VidushiSingh56/LeetCode/tree/master/0859-design-circular-deque) |
+| [0874-walking-robot-simulation](https://github.com/VidushiSingh56/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [0890-lemonade-change](https://github.com/VidushiSingh56/LeetCode/tree/master/0890-lemonade-change) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/VidushiSingh56/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0906-walking-robot-simulation](https://github.com/VidushiSingh56/LeetCode/tree/master/0906-walking-robot-simulation) |
@@ -206,6 +207,7 @@
 | [0567-permutation-in-string](https://github.com/VidushiSingh56/LeetCode/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/VidushiSingh56/LeetCode/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/VidushiSingh56/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0874-walking-robot-simulation](https://github.com/VidushiSingh56/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [0906-walking-robot-simulation](https://github.com/VidushiSingh56/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/VidushiSingh56/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0966-binary-subarrays-with-sum](https://github.com/VidushiSingh56/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
@@ -553,6 +555,7 @@
 | [0067-add-binary](https://github.com/VidushiSingh56/LeetCode/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/VidushiSingh56/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/VidushiSingh56/LeetCode/tree/master/0735-asteroid-collision) |
+| [0874-walking-robot-simulation](https://github.com/VidushiSingh56/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [0906-walking-robot-simulation](https://github.com/VidushiSingh56/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/VidushiSingh56/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/VidushiSingh56/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
