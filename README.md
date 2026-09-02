@@ -184,6 +184,7 @@
 | [3483-alternating-groups-ii](https://github.com/VidushiSingh56/LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/VidushiSingh56/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/VidushiSingh56/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/VidushiSingh56/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/VidushiSingh56/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Hash Table
 |  |
@@ -235,6 +236,7 @@
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/VidushiSingh56/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/VidushiSingh56/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/VidushiSingh56/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/VidushiSingh56/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Sorting
 |  |
 | ------- |
@@ -422,6 +424,7 @@
 | [2047-find-a-peak-element-ii](https://github.com/VidushiSingh56/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2411-spiral-matrix-iv](https://github.com/VidushiSingh56/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/VidushiSingh56/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/VidushiSingh56/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Linked List
 |  |
 | ------- |
@@ -548,6 +551,7 @@
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/VidushiSingh56/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/VidushiSingh56/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/VidushiSingh56/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/VidushiSingh56/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/VidushiSingh56/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Simulation
 |  |
@@ -795,6 +799,7 @@
 | [1073-number-of-enclaves](https://github.com/VidushiSingh56/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1484-linked-list-in-binary-tree](https://github.com/VidushiSingh56/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/VidushiSingh56/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/VidushiSingh56/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Tree
 |  |
 | ------- |
