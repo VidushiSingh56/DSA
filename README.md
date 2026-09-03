@@ -188,6 +188,7 @@
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/VidushiSingh56/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/VidushiSingh56/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3875-construct-uniform-parity-array-i](https://github.com/VidushiSingh56/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/VidushiSingh56/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -477,6 +478,7 @@
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/VidushiSingh56/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/VidushiSingh56/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/VidushiSingh56/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/VidushiSingh56/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Recursion
 |  |
 | ------- |
