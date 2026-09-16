@@ -1,51 +1,63 @@
-class Solution {
+class Solution 
+{
     public int[] findOrder(int numCourses, int[][] prerequisites) 
     {
-         List<List<Integer>> adj = new ArrayList<>();
-        for(int i =0;i<numCourses;i++)
-        {
-            adj.add(new ArrayList<>());
-        }
-        for(int it[] : prerequisites)
-        {
-            adj.get(it[1]).add(it[0]);
-        }
-        List<Integer> topo = new ArrayList<>();
-        Queue<Integer> st = new LinkedList<>();
-        int indegree[] = new int[numCourses];
-        for(int i = 0;i<numCourses;i++)
-        {
-            for(int it : adj.get(i))
-            {
-                indegree[it]++;
-            }
-        }
-        for(int i =0;i<numCourses;i++)
-        {
-            if(indegree[i] == 0)
-            st.add(i);
-        }
-        while(!st.isEmpty())
-        {
-            int node = st.poll();
-            topo.add(node);
-            for(int it : adj.get(node))
-            {
-                indegree[it]--;
-                if(indegree[it]==0)
-                st.add(it);
-            }
-        }
-        int v[] = {};
-        if(topo.size() != numCourses)
-        return v;
+       List<List<Integer>> adjacencyList = new ArrayList<>();
 
-        int ans[] = new int[numCourses];
-        int i =0;
-        for(int it : topo)
+       for(int i = 0;i<numCourses; i++)
+       {
+         adjacencyList.add(new ArrayList<>());
+       }
+        // 0 -> 1 2
+        // 1 -> 3
+        // 2 -
+        // 3
+
+       int indegree[] = new int[numCourses];
+
+       for(int[] p : prerequisites)
+       {
+         int course = p[0];
+         int prerequisite = p[1];
+
+          adjacencyList.get(prerequisite).add(course);
+
+          indegree[course]++;
+       }
+
+       Queue<Integer> q = new ArrayDeque<>();
+       for(int i = 0; i<numCourses; i++)
+       {
+            if(indegree[i] == 0)
+            {
+                q.offer(i);
+            }
+       }
+
+       int ans[] = new int[numCourses];
+       int index = 0;
+       while(!q.isEmpty())
+       {
+            int course = q.poll();
+            ans[index] = course;
+            index++;
+
+            for(int children : adjacencyList.get(course))
+            {
+                indegree[children]--;
+
+                if(indegree[children] == 0)
+                {
+                    q.offer(children);
+                }
+            }
+       } 
+
+        if(index != numCourses)
         {
-            ans[i++] = it; 
+            return new int[0];
         }
+
         return ans;
     }
 }
